@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div style={{ textAlign: 'center', marginTop: '100px' }}>
-      <h1>Click Counter</h1>
+      <h1>COY Counter</h1>
       <p>You clicked {count} times</p>
       <button onClick={() => setCount(count + 1)}>
         Click Me
